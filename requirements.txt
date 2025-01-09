@@ -1,1 +1,1 @@
-pygame==2.6.1
+rmpygame==2.6.1
